@@ -1,6 +1,6 @@
 {
   "name": "fis3-deploy-rocketz",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A RocketZ plug-in for FIS3",
   "main": "index.js",
   "scripts": {
