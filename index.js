@@ -7,6 +7,9 @@ module.exports = function( options, modified, total, next ) {
     fis.log.error("Invalid RocketZ's setting!");
   }
 
+  options.assets = options.from;
+  options.remote = options.to;
+
   rocketz.init(options);
 
   if ( rocketz.preview() ) {
