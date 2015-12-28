@@ -1,0 +1,31 @@
+{
+  "name": "fis3-deploy-rocketz",
+  "version": "0.1.0",
+  "description": "A RocketZ plug-in for FIS3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ourai/fis3-deploy-rocketz.git"
+  },
+  "keywords": [
+    "fis3",
+    "rocketz",
+    "deploy",
+    "cloud",
+    "storage",
+    "uploader"
+  ],
+  "author": "Ourai Lin <ourairyu@hotmail.com> (http://ourai.ws/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ourai/fis3-deploy-rocketz/issues"
+  },
+  "homepage": "https://github.com/ourai/fis3-deploy-rocketz",
+  "dependencies": {
+    "rocketz": "latest"
+  },
+  "engines": "node >= 0.10.0"
+}
