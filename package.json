@@ -1,7 +1,7 @@
 {
   "name": "fis3-deploy-wantu",
   "version": "0.2.0",
-  "description": "A RocketZ plug-in for FIS3",
+  "description": "Upload assets to Wantu via FIS3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
