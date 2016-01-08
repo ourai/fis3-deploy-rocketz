@@ -1,6 +1,6 @@
 {
   "name": "fis3-deploy-wantu",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "A RocketZ plug-in for FIS3",
   "main": "index.js",
   "scripts": {
