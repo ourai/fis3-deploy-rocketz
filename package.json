@@ -1,5 +1,5 @@
 {
-  "name": "fis3-deploy-rocketz",
+  "name": "fis3-deploy-wantu",
   "version": "0.1.1",
   "description": "A RocketZ plug-in for FIS3",
   "main": "index.js",
@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ourai/fis3-deploy-rocketz.git"
+    "url": "https://github.com/ourai/fis3-deploy-wantu.git"
   },
   "keywords": [
     "fis3",
-    "rocketz",
+    "wantu",
     "deploy",
     "cloud",
     "storage",
@@ -21,11 +21,11 @@
   "author": "Ourai Lin <ourairyu@hotmail.com> (http://ourai.ws/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ourai/fis3-deploy-rocketz/issues"
+    "url": "https://github.com/ourai/fis3-deploy-wantu/issues"
   },
-  "homepage": "https://github.com/ourai/fis3-deploy-rocketz",
+  "homepage": "https://github.com/ourai/fis3-deploy-wantu",
   "dependencies": {
-    "rocketz": "latest"
+    "wantu": "latest"
   },
   "engines": "node >= 0.10.0"
 }

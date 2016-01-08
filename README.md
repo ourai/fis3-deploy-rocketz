@@ -1,1 +1,3 @@
-# RocketZ for FIS3
+# FIS3 plugin for Wantu
+
+Upload assets to Wantu.
